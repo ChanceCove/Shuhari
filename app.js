@@ -10,7 +10,6 @@ if (age > 21)
 
 let sleep = "midday"
 
-
 switch (sleep) {
     case "morning":
         console.log("still resting")
@@ -21,16 +20,10 @@ switch (sleep) {
     case "midday":
         console.log("fully rested, ready to handle my prorities")
     break;
-
-
-
 }
 
 
 
 
 
-let rice = "chance";
-let quote = `${rice} is a builder, not a destroyer anymore....`;
 
-console.log(quote);
