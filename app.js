@@ -1,21 +1,12 @@
-/* let age = 18;
+ let age = 18;
 
 if (age < 21) {
-    console.log("you cannot enter this bar young boy");
+    console.log("you cannot enter this bar");
 } else {
 if (age > 21)
     console.log("come on in a have a drink, but drink resonsibly");
 }
- */
-
-const plant = () => {
-    console.log("you are either a builder or a destroyer!")
-}
-
-plant();
-
-console.log(typeof {});
-console.log(3 * 20);
+ 
 
 let sleep = "midday"
 
@@ -25,10 +16,10 @@ switch (sleep) {
         console.log("still resting")
     break;
     case "midnight":
-        console.log("risk arguing with a narcissist")
+        console.log("moderate rest")
     break;
     case "midday":
-        console.log("we out drinking that coffee away from this dude!")
+        console.log("fully rested, ready to handle my prorities")
     break;
 
 
@@ -36,10 +27,7 @@ switch (sleep) {
 }
 
 
-const frankl = () => {
-    console.log("he who has a why to live can deal with just about any how....")
-}
-frankl();
+
 
 
 let rice = "chance";
